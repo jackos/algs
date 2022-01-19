@@ -1,0 +1,10 @@
+[package]
+name = "algs"
+version = "0.1.0"
+authors = ["Jack Clayton"]
+description = "Fastest solutions for various algorithms collected from challenges"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/jackos/algs"
+documentation = "https://docs.rs/algs/"
+edition = "2021"
