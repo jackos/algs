@@ -2,7 +2,7 @@
 name = "algs"
 version = "0.1.1"
 authors = ["Jack Clayton"]
-description = "Fastest solutions for various algorithms collected from challenges"
+description = "Solutions for various algorithms, made as generic as possible"
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/jackos/algs"
