@@ -1,6 +1,6 @@
 [package]
 name = "algs"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Jack Clayton"]
 description = "Solutions for various algorithms, made as generic as possible"
 license = "MIT"
