@@ -11,8 +11,6 @@ edition = "2021"
 
 [dependencies]
 funty = "2.0.0"
-num = "0.4.0"
-num-traits = "0.2.14"
 
 [dev-dependencies]
 criterion = { version = "0.3.5", features = ["html_reports"] }
