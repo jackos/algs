@@ -1,9 +1,9 @@
 use super::LinkedList;
 // Take two linked list and add the numbers together.
 
-// Recursive function to add the linked lists together, it calls itself until it hits a None in either list
-// Adding the remainder is a little hacky where it just calls itself with one LinkedList having
-// a value of `1`, but it's nicer and more concise than the alternatives
+// Recursive function to add the linked lists together, it calls itself until it hits a None in
+// either list Adding the remainder is a little hacky where it just calls itself with one LinkedList
+// having a value of `1`, but it's nicer and more concise than the alternatives
 pub fn add(l1: Option<Box<LinkedList>>, l2: Option<Box<LinkedList>>) -> Option<Box<LinkedList>> {
     match (l1, l2) {
         (None, None) => None,
